@@ -9,6 +9,12 @@ The car can perform the below mentioned functionalities:
 
 I'll be discussing the image detection and obstacle avoidance aspect of the emergency vehicle detection(which was my role).
 
+Folders:
+
+1.) program : Contains the training and testing module along with the trained model for 32*32 images.
+
+2.) video : Contains the working video of the self driving car.
+
 THEORY:
 
 The aim of the project is to give path to the ambulance only in the emergency situations which would be detected with the help of audio detection i.e., siren detection of the ambulance.
